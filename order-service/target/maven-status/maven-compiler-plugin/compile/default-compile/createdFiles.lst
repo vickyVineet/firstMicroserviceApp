@@ -1,0 +1,9 @@
+com\assignment\orderservice\dto\OrderItemDto.class
+com\assignment\orderservice\entity\OrderItemsEntity.class
+com\assignment\orderservice\entity\OrderEntity.class
+com\assignment\orderservice\OrderServiceApplication.class
+com\assignment\orderservice\dto\OrderRequest.class
+com\assignment\orderservice\repository\OrderRepository.class
+com\assignment\orderservice\controller\OrderController.class
+com\assignment\orderservice\service\OrderService.class
+com\assignment\orderservice\entity\OrderItemsEntity$OrderItemsEntityBuilder.class
